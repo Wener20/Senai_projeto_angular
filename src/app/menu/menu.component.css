@@ -8,7 +8,8 @@ span{
 
   img{
     height: 50px;
-    width: 50px;  
+    width: 60px;
+    border-radius: 50px;
   }
 
   a{
