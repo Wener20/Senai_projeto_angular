@@ -7,7 +7,7 @@ main{
 }
 
 #section-banner img{
-    height: 500px;
+    height: 400px;
 }
 
 h2{
@@ -54,6 +54,11 @@ mat-card-actions{
     height: 300px;
     width: 300px;
   }
+
+  mat-card-content{
+    text-align: center;
+  }
+
 
 
 
